@@ -1,7 +1,7 @@
 ---
 year: 2025
 venue: arXiv
-citation: 0
+citation: 1
 tags:
   - diffusion
   - VSR
