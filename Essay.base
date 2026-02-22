@@ -1,0 +1,35 @@
+properties:
+  file.name:
+    displayName: name
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("Papers")
+    order:
+      - file.name
+      - status
+      - venue
+      - year
+      - citation
+      - tags
+      - pdf
+    sort:
+      - property: year
+        direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: alias
+        direction: DESC
+      - property: statu
+        direction: DESC
+      - property: file.links
+        direction: DESC
+    summaries: {}
+    columnSize:
+      file.name: 79
+      note.year: 80
+      note.citation: 89
+      note.tags: 331
+      note.pdf: 248
