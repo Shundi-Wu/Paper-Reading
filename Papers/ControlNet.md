@@ -7,8 +7,8 @@ tags:
 pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf
 status: true
 ---
-**Adding Conditional Control to Text-to-Image Diffusion Models**. *L Zhang et.al.* 
-**ICCV, 2023** **(Citation 7556)**  [(PDF)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)
+**Adding Conditional Control to Text-to-Image Diffusion Models**. *L Zhang et al.* 
+**ICCV, 2023** **(Citation 7556)**  [(pdf)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)
 
 ## Contribution
 

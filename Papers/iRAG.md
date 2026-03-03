@@ -4,7 +4,7 @@ venue: ICCV
 citation: 0
 tags:
   - diffusion
-  - VSR
+  - ISR
   - RAG
 pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Reference-based_Super-Resolution_via_Image-based_Retrieval-Augmented_Generation_Diffusion_ICCV_2025_paper.pdf
 status: true
@@ -21,7 +21,7 @@ Improve real-world metrics (MUSIQ), but underperform at PSNR etc.
 
 **Question:**
 
-- Figure 2: why $F_{lq}$ trainable?
+- [Figure 2](##Method): why $F_{lq}$ trainable?
 
 	
 
@@ -76,8 +76,6 @@ $$
 		$$
 		S(h_1^{(k)}, h_2^{(k)}) := e^{C(h_1^{(k)}, h_2^{(k)})} / \tau, \quad \ell_1^{(k)} := -\log \frac{S(h_1^{(k)}, h_2^{(k)})}{S(h_1^{(k)}, h_2^{(k)}) + \sum_{i, n \neq k} S(h_1^{(k)}, h_i^{(n)})}.
 		$$
-
-- 
 
 ### 3. Ref SR
 
