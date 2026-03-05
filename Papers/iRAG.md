@@ -27,7 +27,7 @@ Improve real-world metrics (MUSIQ), but underperform at PSNR etc.
 
 ## Motivation
 
-### Difficulties
+### Difficulty
 
 - **Find Reference**: Identifying suitable references in real-world scenarios remains a critical challenge.
 - **Use Reference:** (1) matching difficulty, especially when the reference image differs substantially from the input LR image in illumination or pose; (2) robust texture transfer, to ensure that only relevant high-frequency details are mapped to the LR input while minimizing artifacts from mismatched regions.

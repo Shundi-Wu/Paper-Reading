@@ -18,7 +18,7 @@ Leverage Ref Attention, create implicit gating module - extract summary to align
 
 ## Motivation
 
-### Difficulties
+### Difficulty
 
 - real-world degradations make correspondences between low-quality (LQ) inputs and reference (Ref) images unreliable
 
@@ -92,7 +92,7 @@ $$
 
 ![image-20260302232716310](https://raw.githubusercontent.com/Shundi-Wu/Typora/main/assets/img/image-20260302232716310.png)
 
-<img src="https://raw.githubusercontent.com/Shundi-Wu/Typora/main/assets/img/image-20260302232739184.png" alt="image-20260302232739184" style="zoom: 63%;" />
+<img src="https://raw.githubusercontent.com/Shundi-Wu/Typora/main/assets/img/image-20260302232739184.png" alt="image-20260302232739184" style="zoom: 75%;" />
 
 ### Ablation
 

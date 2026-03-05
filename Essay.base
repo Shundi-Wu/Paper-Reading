@@ -28,7 +28,7 @@ views:
         direction: DESC
     summaries: {}
     columnSize:
-      file.name: 79
+      file.name: 99
       note.year: 80
       note.citation: 89
       note.tags: 331
