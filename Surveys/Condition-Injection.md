@@ -92,3 +92,8 @@ $$
 - Decoupled Cross-Attention
 
 ![image-20260310160644039](https://raw.githubusercontent.com/Shundi-Wu/Typora/main/assets/img/image-20260310160644039.png)
+
+## Animate Anyone
+
+**Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation.** *Li Hu* **CVPR, 2024 (Citation 777)** [(pdf)](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Animate_Anyone_Consistent_and_Controllable_Image-to-Video_Synthesis_for_Character_Animation_CVPR_2024_paper.pdf)
+

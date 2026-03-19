@@ -80,7 +80,6 @@ $$
 	- DIV2K, DIV8K, Flickr2K 1024 × 1024 -> two 512 × 512 sub-regions (HQ and Ref)，Ref rotated
 	- a face reference matching dataset with predefined HQ-Ref triplets： **Learning dual memory dictionaries for blind face restoration.** *X Li et al.* **TPAMI, 2022**
 	- **Loss**: ** L2 + GAN
-- 
 
 ### Result
 
